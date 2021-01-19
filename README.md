@@ -11,3 +11,7 @@ Prediction using Supervised ML:
 
 Supervised ML:
 When we have input data(X) as well as the output data(Y) and we map them using an algorithm. 
+
+YouTube Link for this Video: https://www.youtube.com/watch?v=z9Fofm0Ekvw
+Would love to get the feedback!
+Thank You. 
